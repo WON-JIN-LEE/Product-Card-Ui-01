@@ -16,4 +16,4 @@
 
 |                           |                          |
 | ------------------------- | ------------------------ |
-| ![small](demo/middle.png) | ![small](demo/small.png) |
+| ![small](demo/middle.PNG) | ![small](demo/small.PNG) |
